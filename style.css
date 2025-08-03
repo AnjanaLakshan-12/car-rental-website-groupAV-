@@ -1,0 +1,354 @@
+@charset "utf-8";
+
+body{
+	background-color: black;
+	background-image: -webkit-linear-gradient(270deg,rgba(12,12,12,1.00) 9.95%,rgba(35,32,32,1.00) 55.34%,rgba(11,10,10,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(12,12,12,1.00) 9.95%,rgba(35,32,32,1.00) 55.34%,rgba(11,10,10,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(12,12,12,1.00) 9.95%,rgba(35,32,32,1.00) 55.34%,rgba(11,10,10,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(12,12,12,1.00) 9.95%,rgba(35,32,32,1.00) 55.34%,rgba(11,10,10,1.00) 100%);
+}
+.heading{
+	margin-top:50px;
+}
+
+.cards{
+	margin-top:100px;
+}
+
+.accordian-section{
+	margin-top:100px;
+	margin-bottom:100px;
+}
+
+.map{
+	margin-top:5px;
+}
+
+
+#login-button{
+	color:white;
+	border-color: white;
+	
+}
+#login-button:hover{
+	border-color:#0E84A4;
+	background-color:#1DBCDA;
+}
+
+.heading{
+	color:white;
+}
+
+#card-image{
+	border-radius: 5px;
+	margin-top:10px;
+}
+
+.card{
+	background-color:#343a40;
+	color:#343a40;
+}
+
+.card-body{
+	color:white;
+}
+
+
+
+.aboutus-sec {
+	color: white;
+}
+
+.aboutus-sec .text-center {
+	padding: 20px;
+
+
+
+}
+.history {
+	color: white;
+}
+
+
+#topic{
+	font-size: 36px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: italic;
+}
+.history {
+	margin-top: 110px;
+}
+#year {
+	color: #FFAB00;
+}
+#his-dis2{
+	margin-top: 35px;
+}
+
+#his-image {
+	padding-left: 200px;
+	border-radius: 12px;
+		
+}
+.row .col-lg-6 #mission-para {
+	color: #FFFFFF;
+}
+
+
+#mission-body {
+	margin-top: 100px;
+}
+
+
+
+
+.mission .staff {
+	margin-top: 150px;
+	color: #FFFFFF;
+}
+.mission .staff .text-center1 {
+	margin-bottom: 50px;
+}
+
+#staff-para{
+	padding: 50px;
+}
+.staff {
+	color: #FFFFFF;
+	margin-top: 200px;
+}
+#mission-body .col-lg-4 .card-img-top {
+	padding-left: 50px;
+}
+.mission .text-center {
+	color: #FFFFFF;
+}
+.mission .text-center {
+	margin-top: 200px;
+}
+.mission #mission-body {
+
+}
+#mission-body .col-lg-6 #mission-dis {
+	padding-left: 190px;
+	color: #FFFFFF;
+}
+.staff .row {
+	margin: 10px;
+
+}
+.testimonial {
+}
+.testimonial .text-center {
+	color: #FFFFFF;
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+
+
+
+
+.staff-img{
+	border-radius:10px;
+	width: 200px;
+  height: 135px;
+  object-fit: cover;
+  clip-path: circle(50% at 50% 50);
+	display:block;
+	margin: 10px auto;
+}
+.testimonial .row {
+	margin: 0px 20px 0px 20px;
+}
+.footer-sec {
+	margin-top: 500px;
+
+}
+.contac-us #contact-hed {
+	color: #FFFFFF;
+	margin-top: 50px;
+}
+.row .col-lg-6 #contact-topic {
+	color: #FFAB00;
+
+}
+.contact-details {
+	padding: 0px 100px 0px 100px;
+	margin-top: 100px;
+}
+#topic{
+	color: #FFFFFF;
+}
+.contact-details .row .col-lg-6 {
+	padding-top: 10px;
+
+}
+
+.contact-details .row .col-lg-4 {
+	padding-top: 10px;
+
+}
+.row .col-lg-6 #dis {
+	color: #FFFFFF;
+	padding-left: 50px;
+}
+
+
+.row .col-lg-4 .img-fluid {
+	border-radius: 10px;
+}
+
+.contact-para{
+	padding-left: 50px
+}
+.map-sec .text-center strong {
+	color: #FFFFFF;
+}
+.map-sec #visit-topic {
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+#contact-hed {
+	color: #FFFFFF;
+}
+#contact-hed strong {
+	color: #FFFFFF;
+}
+
+
+#gallery-topic{
+	color:white;
+}
+#gallery-dis {
+	color: #FFFFFF;
+}
+#gallery-dis {
+	margin: 50px 20px 100px 20px;
+}
+#gallery-topic {
+	margin-top: 100px;
+}
+body {
+}
+.gallery #gallery-3 {
+	margin-top: 30px;
+}
+#gallery-img {
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#gallery-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.gallery {
+	margin: 0px 20px 0px 20px;
+}
+
+
+
+
+.contact-form-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #1C1C1C;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	border: 1px;
+	border-color: white;
+	border-style: solid;
+	
+}
+
+.contact-form-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: white;
+}
+
+.contact-form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+	color:white;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-top: 5px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+
+
+.contact-form-container .contact-form #message {
+	margin-bottom: 15px;
+}
+.contact-form-container {
+	margin-top: 200px;
+}
+#pricing-head {
+	color: #FFFFFF;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+#pricing-dis {
+	margin: 50px 50px 200px 50px;
+	color:white;
+	text-align: center;
+}
+
+
+
+
+.login-container {
+  width: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form label {
+  margin: 10px 0 5px;
+  text-align: left;
+}
+
+.login-form input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.login-form button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.login-form button:hover {
+  background-color: #0056b3;
+}
+.login-container .login-form #create-account {
+	margin-top: 10px;
+}
